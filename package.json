@@ -45,5 +45,5 @@
     "version": "npm run build && git add -A js",
     "postversion": "git push --tags origin master && npm publish"
   },
-  "main": "dist/es6/md5.js"
+  "main": "js/md5.js"
 }
